@@ -1,0 +1,9 @@
+{
+  "name": "jsonblock.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<jason@jasontheblock.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
