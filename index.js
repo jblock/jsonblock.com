@@ -14,11 +14,18 @@ const LOCATION = {
 
 const WORK_HISTORY = [
   {
+    company: 'Garmentier',
+    website: 'https://www.garmentier.co',
+    title: 'Head of Engineering',
+    start: '03/2020',
+    end: null,
+  },
+  {
     company: 'LandscapeHub',
     website: 'https://www.landscapehub.com',
     title: 'Senior Software Engineer',
     start: '01/2018',
-    end: null,
+    end: '03/2020',
   },
   {
     company: 'Trunk Club',
@@ -75,7 +82,9 @@ const EDUCATION = [
 const INTERESTS = [
   'movies',
   'DIY projects',
-  'photography',
+  'immersive theatre',
+  'escape rooms',
+  'coffee',
   'theatre',
   'cooking',
 ]
