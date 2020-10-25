@@ -96,7 +96,7 @@ module.exports = (req, res) => {
     email: 'jason@jasontheblock.com',
     website: 'jasontheblock.com',
     description:
-      'Software generalist interested in helping startups in interesting niches, with a focus on UI work and front-end development',
+      'Software generalist interested in helping startups in interesting niches, with a focus on engaging user experiences and full-stack development',
     age: decimalDateDiff(BIRTH_DATE, Date.now()) / ONE_YEAR,
     location: LOCATION,
     workHistory: WORK_HISTORY,
