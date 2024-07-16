@@ -91,7 +91,7 @@ const INTERESTS = [
   'DIY projects',
   'immersive theatre',
   'escape rooms',
-  'coffee',
+  '(decaf) coffee',
   'theatre',
   'cooking',
 ]
