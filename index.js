@@ -14,11 +14,18 @@ const LOCATION = {
 
 const WORK_HISTORY = [
   {
+    company: 'Figma',
+    website: 'https://www.figma.com',
+    title: 'Software Engineer',
+    start: '03/2021',
+    end: null,
+  },
+  {
     company: 'Garmentier',
     website: 'https://www.garmentier.co',
-    title: 'Head of Engineering',
+    title: 'Head of Engineering & Consultant',
     start: '03/2020',
-    end: null,
+    end: '03/2021',
   },
   {
     company: 'LandscapeHub',
